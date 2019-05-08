@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>train</label>
+		<id>200</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>train.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>train.jcp</path>
+		</project>
+	</projects>
+</workspace>
