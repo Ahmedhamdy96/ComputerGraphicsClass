@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>girl_face</label>
+		<id>3</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>girl_face2.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>girl_face.jcp</path>
+		</project>
+	</projects>
+</workspace>
