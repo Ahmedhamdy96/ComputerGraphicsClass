@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>lady_daughter</label>
+		<id>5</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>lady_daughter.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>lady_daughter.jcp</path>
+		</project>
+	</projects>
+</workspace>
