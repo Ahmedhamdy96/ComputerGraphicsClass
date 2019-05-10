@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>four_circle_circulate</label>
+		<id>8</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>four_circle_circulate.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>four_circle_circulate.jcp</path>
+		</project>
+	</projects>
+</workspace>
