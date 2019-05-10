@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>pliatsho</label>
+		<id>14</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>pliatsho.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>pliatsho.jcp</path>
+		</project>
+	</projects>
+</workspace>
