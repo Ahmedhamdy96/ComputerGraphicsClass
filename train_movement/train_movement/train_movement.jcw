@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>train_movement</label>
+		<id>50</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>train_movement.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>train_movement.jcp</path>
+		</project>
+	</projects>
+</workspace>
